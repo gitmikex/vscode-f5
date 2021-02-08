@@ -168,3 +168,4 @@ Different ways to install vsix:
   - or `click` the pencil icon on an item and modify the item
 - Connect to device
   - (`click` device in host tree or `Cntrl+shift+P` or `F1`)
+# vscode-f5
